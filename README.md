@@ -10,6 +10,14 @@ Use Azure Blob Storage for storing and retrieving files.
 4. Download the uploaded file to verify successful retrieval.
 5. Use Azure Storage Explorer to manage and view blobs in your container.
 
+![img](/screenshots/1_1.png)
+![img](/screenshots/1_2.png)
+![img](/screenshots/1_3.png)
+![img](/screenshots/1_4.png)
+![img](/screenshots/1_5.png)
+![img](/screenshots/1_6.png)
+![img](/screenshots/1_7.png)
+
 ## Practical Task 2: Lifecycle Management for Blob Storage
 Implement lifecycle management policies to optimize storage costs.
 
