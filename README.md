@@ -44,6 +44,14 @@ Create and manage an Azure Queue to store and process messages.
 4. Retrieve and process messages directly using Azure Storage Explorer or the Azure portal interface.
 5. Verify that processed messages are removed from the queue manually.
 
+![img](/screenshots/3_1.png)
+![img](/screenshots/3_2.png)
+![img](/screenshots/3_3.png)
+![img](/screenshots/3_4.png)
+![img](/screenshots/3_5.png)
+![img](/screenshots/3_6.png)
+![img](/screenshots/3_7.png)
+
 ## Practical Task 4: Configuring Azure File Share and Mounting on a Local Machine
 Set up and access Azure File Storage for shared file access.
 
