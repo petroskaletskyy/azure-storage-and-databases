@@ -61,6 +61,11 @@ Set up and access Azure File Storage for shared file access.
 4. Verify the mounted file share and ensure it displays the uploaded file.
 5. Add another file to the file share from the local machine and confirm it reflects in Azure.
 
+![img](/screenshots/4_1.png)
+![img](/screenshots/4_2.png)
+![img](/screenshots/4_3.png)
+![img](/screenshots/4_4.png)
+
 ## Practical Task 5: Storing and Querying Data with Azure Table Storage
 Set up and use Azure Table Storage for structured data.
 
