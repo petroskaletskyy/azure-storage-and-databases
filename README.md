@@ -27,6 +27,14 @@ Implement lifecycle management policies to optimize storage costs.
 4. Simulate policy execution by manually testing with different file creation timestamps.
 5. Verify that blobs are moved or deleted according to the policy.
 
+![img](/screenshots/2_1.png)
+![img](/screenshots/2_2.png)
+![img](/screenshots/2_3.png)
+![img](/screenshots/2_4.png)
+![img](/screenshots/2_5.png)
+![img](/screenshots/2_6.png)
+![img](/screenshots/2_7.png)
+
 ## Practical Task 3: Implementing an Azure Queue for Message Storage
 Create and manage an Azure Queue to store and process messages.
 
