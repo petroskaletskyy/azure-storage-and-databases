@@ -65,6 +65,8 @@ Set up and access Azure File Storage for shared file access.
 ![img](/screenshots/4_2.png)
 ![img](/screenshots/4_3.png)
 ![img](/screenshots/4_4.png)
+![img](/screenshots/4_5.png)
+![img](/screenshots/4_6.png)
 
 ## Practical Task 5: Storing and Querying Data with Azure Table Storage
 Set up and use Azure Table Storage for structured data.
@@ -74,6 +76,13 @@ Set up and use Azure Table Storage for structured data.
 3. Add sample data (e.g., employee IDs, names, and roles) to the table using Azure Storage Explorer or Azure CLI.
 4. Query the table for specific data using filters (e.g., "Role = Developer").
 5. Delete specific entries from the table and verify the changes.
+
+![img](/screenshots/5_1.png)
+![img](/screenshots/5_2.png)
+![img](/screenshots/5_3.png)
+![img](/screenshots/5_4.png)
+![img](/screenshots/5_5.png)
+![img](/screenshots/5_6.png)
 
 ## Practical Task 6: Configuring Shared Access Signatures (SAS) for Secure Access
 Secure Azure Storage services using SAS tokens.

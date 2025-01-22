@@ -1,0 +1,10 @@
+PartitionKey:RowKey:Name:Role:Department
+HR:E001:John Smith:HR Specialist:Human Resources
+HR:E002:Mary Johnson:Recruiter:Human Resources
+IT:E003:Alice Brown:Developer:Information Tech
+IT:E004:Bob Wilson:DevOps Engineer:Information Tech
+IT:E005:Charlie Davis:QA Engineer:Information Tech
+Finance:E006:Emma Wilson:Financial Analyst:Finance
+Finance:E007:Jack Taylor:Accountant:Finance
+Sales:E008:Olivia White:Sales Manager:Sales
+Sales:E009:Liam Green:Sales Associate:Sales
