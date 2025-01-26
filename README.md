@@ -116,6 +116,16 @@ Securely manage access to Azure resources and integrate services using Managed I
    - Assign the Storage Blob Data Reader role to the Managed Identity for "secure-storage".
    - Connect to the VM and verify that the Managed Identity can access blob data using Azure CLI or a pre-installed script.
 
+![img](/screenshots/7_1.png)
+![img](/screenshots/7_2.png)
+![img](/screenshots/7_3.png)
+![img](/screenshots/7_4.png)
+![img](/screenshots/7_5.png)
+![img](/screenshots/7_6.png)
+![img](/screenshots/7_7.png)
+![img](/screenshots/7_8.png)
+![img](/screenshots/7_9.png)
+
 ## Practical Task 8: Creating and Querying an Azure SQL Database
 Learn to create and query an Azure SQL Database using the Azure portal.
 
