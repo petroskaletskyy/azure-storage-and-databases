@@ -93,6 +93,16 @@ Secure Azure Storage services using SAS tokens.
 4. Repeat the process for File, Queue, and Table services with different permissions.
 5. Analyze the security implications of SAS tokens and expiry times.
 
+![img](/screenshots/6_1.png)
+![img](/screenshots/6_2.png)
+![img](/screenshots/6_3.png)
+![img](/screenshots/6_4.png)
+![img](/screenshots/6_5.png)
+![img](/screenshots/6_6.png)
+![img](/screenshots/6_7.png)
+![img](/screenshots/6_8.png)
+![img](/screenshots/6_9.png)
+
 ## Practical Task 7: Implementing Security Best Practices with Azure RBAC and Managed Identities
 Securely manage access to Azure resources and integrate services using Managed Identities.
 
