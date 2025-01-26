@@ -135,6 +135,15 @@ Learn to create and query an Azure SQL Database using the Azure portal.
 4. Insert a few sample records into the "Products" table using a SQL query.
 5. Query the table to display all records and verify the data.
 
+![img](/screenshots/8_1.png)
+![img](/screenshots/8_2.png)
+![img](/screenshots/8_3.png)
+![img](/screenshots/8_4.png)
+![img](/screenshots/8_5.png)
+![img](/screenshots/8_6.png)
+![img](/screenshots/8_7.png)
+![img](/screenshots/8_8.png)
+
 ## Practical Task 9: Deploying an Azure SQL Database with Automated Backup Configuration
 Set up an Azure SQL Database and configure automated backups.
 
