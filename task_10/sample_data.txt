@@ -1,0 +1,24 @@
+{
+    "id": "1",
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 699
+}
+{
+    "id": "2",
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 1200
+}
+{
+    "id": "3",
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 150
+}
+{
+    "id": "4",
+    "name": "Table",
+    "category": "Furniture",
+    "price": 250
+}
