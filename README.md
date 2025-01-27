@@ -199,3 +199,13 @@ Set up and explore Cosmos DB by creating a database, managing data, querying, an
    - Insert new data into the primary region and verify that it replicates to the secondary region.
    - Perform a manual failover and verify that the secondary region becomes the primary.
    - Test data consistency and latency after failover.
+
+![img](/screenshots/10_1.png)
+![img](/screenshots/10_2.png)
+![img](/screenshots/10_3.png)
+![img](/screenshots/10_4.png)
+![img](/screenshots/10_5.png)
+![img](/screenshots/10_6.png)
+![img](/screenshots/10_7.png)
+![img](/screenshots/10_8.png)
+![img](/screenshots/10_9.png)
