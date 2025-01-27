@@ -153,6 +153,14 @@ Set up an Azure SQL Database and configure automated backups.
 4. Use the Azure portal to verify backup settings and review available restore points.
 5. Test the restore process by creating a new database from a backup.
 
+![img](/screenshots/9_1.png)
+![img](/screenshots/9_2.png)
+![img](/screenshots/9_3.png)
+![img](/screenshots/9_4.png)
+![img](/screenshots/9_5.png)
+![img](/screenshots/9_6.png)
+![img](/screenshots/9_7.png)
+
 ## Practical Task 10: Getting Started with Cosmos DB
 Set up and explore Cosmos DB by creating a database, managing data, querying, and testing key features like consistency and global distribution.
 
