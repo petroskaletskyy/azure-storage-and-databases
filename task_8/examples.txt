@@ -1,0 +1,14 @@
+CREATE TABLE Products (
+    ID INT PRIMARY KEY,
+    Name NVARCHAR(50),
+    Price DECIMAL(10,2)
+);
+
+INSERT INTO Products (ID, Name, Price)
+VALUES
+    (1,'Laptop',799.99),
+    (2,'Mouse',19.99),
+    (3,'Keyboard',49.99),
+    (4,'Monitor',199.99);
+
+SELECT * FROM Products;    
