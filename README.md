@@ -65,7 +65,7 @@ Set up and access Azure File Storage for shared file access.
 ![img](/screenshots/4_2.png)
 ![img](/screenshots/4_3.png)
 ![img](/screenshots/4_4.png)
-![img](/screenshots/4_5.png)
+![img](/screenshots/4_5.jpg)
 ![img](/screenshots/4_6.png)
 
 ## Practical Task 5: Storing and Querying Data with Azure Table Storage
